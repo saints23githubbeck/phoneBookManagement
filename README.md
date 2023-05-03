@@ -1,4 +1,4 @@
-# VUE.JS CRUD
+# NODEJS and VUE.JS CRUD
 
 Basic CRUD of user phone book app using Vue.js on the front-end and Node.js with MongoDB on the back-end API.
 
